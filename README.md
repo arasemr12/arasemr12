@@ -2,8 +2,9 @@
 
 <h1 align="center">About me</h1>
 
-- __**name**__: Emrah Aras
+- __**Name**__: Emrah Aras
 - **Who?**: I'm Emrah, I'm interested in coding. [My website](https://emraharas.xyz/).
+- **Technologies I use**: Node.js, html, css, python, javascript
 
 <br>
 <hr>
