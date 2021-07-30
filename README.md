@@ -1,5 +1,14 @@
 ### Hello, I am Emrah "Arasemr12" Aras. 👋
 
+<h1 align="center">About me</h1>
+
+- __**name**__: Emrah Aras
+- **Who?**: I'm Emrah, I'm interested in coding. [My website](https://emraharas.xyz/).
+
+<br>
+<hr>
+<br>
+
 <h1 align="center">Contact Me</h1>
 
 <p align="center">
