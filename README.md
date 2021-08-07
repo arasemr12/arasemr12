@@ -1,7 +1,7 @@
 ### Hello, I am Emrah "Arasemr12" Aras. 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasemr12&show_icons=true&theme=radical&hide=contribs)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arasemr12&layout=compact)](https://github.com/semihaydin0/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arasemr12&layout=compact)](https://github.com/Arasemr12/)
 
 <br>
 <hr>
