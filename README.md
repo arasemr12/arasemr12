@@ -11,7 +11,7 @@
 
 - __**Name**__: Emrah Aras
 - **Who?**: I'm Emrah, I'm interested in coding. [My website](https://emraharas.xyz/).
-- **Technologies I use**: Node.js, html, css, python, bootstrap, react, vue.js
+- **Technologies I use**: Node.js, html, css, python, bootstrap, react, vue.js, tailwindcss
 
 <br>
 <hr>
