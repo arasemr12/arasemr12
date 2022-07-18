@@ -10,8 +10,7 @@
 <h1 align="center">About me</h1>
 
 - __**Name**__: arasemr12
-- **Who?**: I'm Emrah, I'm interested in coding. [My website](https://arasemr12.tk/).
-- **Technologies I use**: Node.js, html, css, python, bootstrap, react, vue.js, tailwindcss
+- **Website**: [My website](https://arasemr12.tk/)
 
 <br>
 <hr>
