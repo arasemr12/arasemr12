@@ -1,4 +1,4 @@
-### Hello, I am Emrah "Arasemr12" Aras. 👋
+### Hello, I am arasemr12 👋
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasemr12&show_icons=true&theme=radical&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arasemr12&layout=compact)](https://github.com/Arasemr12/)
@@ -9,8 +9,8 @@
 
 <h1 align="center">About me</h1>
 
-- __**Name**__: Emrah Aras
-- **Who?**: I'm Emrah, I'm interested in coding. [My website](https://emraharas.xyz/).
+- __**Name**__: arasemr12
+- **Who?**: I'm Emrah, I'm interested in coding. [My website](https://arasemr12.tk/).
 - **Technologies I use**: Node.js, html, css, python, bootstrap, react, vue.js, tailwindcss
 
 <br>
