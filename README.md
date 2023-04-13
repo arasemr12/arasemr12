@@ -10,7 +10,7 @@
 <h1 align="center">About me</h1>
 
 - __**Name**__: arasemr12
-- **Website**: [My website](https://arasemr12.tk/)
+- **Website**: [My website](https://arasemr12.xyz/)
 
 <br>
 <hr>
