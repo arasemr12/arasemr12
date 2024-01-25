@@ -1,6 +1,6 @@
 ### Hello, I am arasemr12 👋
 
-Hi, I'm Emrah. I started software when I was about 10 years old. I am 15 years old now. I study at an Anatolian high school. I'm interested in video games, guitar and research. My main field is web development, I also develop desktop programs. I am open to job offers. You can reach me via e-mail. I own <a href="https://anomz.software/" target="_blank">Anomz</a>
+Hi, I'm Emrah. I started software when I was about 10 years old. I am 15 years old now. I study at an Anatolian high school. I'm interested in video games, guitar and research. My main field is web development, I also develop desktop programs. I am open to job offers. You can reach me via e-mail. I own [Anomz](https://anomz.software/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arasemr12&show_icons=true&theme=radical&hide=contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arasemr12&layout=compact)](https://github.com/Arasemr12/)
@@ -11,8 +11,9 @@ Hi, I'm Emrah. I started software when I was about 10 years old. I am 15 years o
 
 <h1 align="center">About me</h1>
 
-- __**Name**__: arasemr12
+- **Name**: arasemr12
 - **Website**: [My website](https://arasemr12.xyz/)
+- **Email**: arasemr1234@protonmail.com
 
 <br>
 <hr>
