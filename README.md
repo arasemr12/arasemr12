@@ -19,7 +19,7 @@
 <h1 align="center">Contact Me</h1>
 
 <p align="center">
-  <a href="https://discord.com/users/441221465019514881" target="_blank">Discord: "arasemr12#9891"</a>
+  <a href="https://discord.com/users/441221465019514881" target="_blank">Discord: "arasemr12"</a>
   |
   <a href="https://twitter.com/arasemr1234" target="_blank">Twitter</a>
 </p>
